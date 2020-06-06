@@ -28,7 +28,7 @@
     "@nestjs/typeorm": "^6.2.0",
     "@types/mongodb": "^3.3.11",
     "apollo-server-cache-memcached": "^0.6.3",
-    "apollo-server-express": "^2.9.12",
+    "apollo-server-express": "^2.14.2",
     "bcrypt": "^3.0.7",
     "class-transformer": "^0.2.3",
     "cloudinary": "^1.17.0",
