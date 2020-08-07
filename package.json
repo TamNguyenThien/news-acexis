@@ -30,7 +30,7 @@
     "apollo-server-cache-memcached": "^0.6.3",
     "apollo-server-express": "^2.9.12",
     "bcrypt": "^3.0.7",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "cloudinary": "^1.17.0",
     "express-rate-limit": "^5.0.0",
     "graphql": "^14.5.8",
