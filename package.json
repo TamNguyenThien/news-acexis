@@ -29,7 +29,7 @@
     "@types/mongodb": "^3.3.11",
     "apollo-server-cache-memcached": "^0.6.3",
     "apollo-server-express": "^2.9.12",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "class-transformer": "^0.2.3",
     "cloudinary": "^1.17.0",
     "express-rate-limit": "^5.0.0",
